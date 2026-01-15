@@ -81,11 +81,12 @@ x,y: Координаты верхнего левого угла. Coordinates of
 
 Из меню Файл выберите пункт Сценарии -> My_Caja_Window_Size_Default.sh
 
-PICs
+![Caja_Window_Size_Restorer_Screen_1](https://github.com/user-attachments/assets/d6f4b1ad-9cfb-4fe2-b93b-a621d61ea01e)
 
 Или щелкните правой кнопкой мыши и в контекстном меню выберите пункт Сценарии -> My_Caja_Window_Size_Default.sh
 
-PICs
+![Caja_Window_Size_Restorer_Screen_2](https://github.com/user-attachments/assets/46808355-e7df-4d29-834e-b089d3783b70)
+
 
 ## English
 ----------
