@@ -32,12 +32,13 @@ $ mkdir -p ~/.config/caja/scripts
 
 ### 3.Клонируйте скрипт:
 ```
-git clone ***
+$ cd /tmp/
+$ git clone https://github.com/Konstantin-Kuney/Caja-Window-Size-Restorer.git
 ```
 
 ### 4.Скопируйте его в папку скриптов:
 ```
-$ cd ********
+$ cd Caja-Window-Size-Restorer/
 $ cp Caja_Window_Size_Restorer.sh ~/.config/caja/scripts
 ```
 
@@ -64,8 +65,11 @@ $ pluma ~/.config/caja/scripts/Caja_Window_Size_Restorer.sh
 ### 1.2.Измените координаты и размер окна:
 
 0,x,y,ширина,высота 0,x,y,width,height
+
 0: Порядок отрисовки (обычно 0). Draw order (usually 0).
+
 x,y: Координаты верхнего левого угла. Coordinates of the upper left corner.
+
 ширина,высота - Размер окна. width, height - Window size.
 
 Например:
@@ -73,9 +77,10 @@ x,y: Координаты верхнего левого угла. Coordinates of
 0,0,577,734,515
 
 0 - Порядок отрисовки
-0,577 - Ноль слева, 577 сверху
-734,515 - Размер окна 734x515 пикселей
 
+0,577 - Ноль слева, 577 сверху
+
+734,515 - Размер окна 734x515 пикселей
 
 ### 2.Использование:
 
@@ -87,7 +92,6 @@ x,y: Координаты верхнего левого угла. Coordinates of
 
 ![Caja_Window_Size_Restorer_Screen_2](https://github.com/user-attachments/assets/46808355-e7df-4d29-834e-b089d3783b70)
 
-
 ## English
 ----------
 
@@ -95,7 +99,6 @@ x,y: Координаты верхнего левого угла. Coordinates of
 ----------------------------
 
 Caja file manager script for restoring window size.
-
 
 ## About the script:
 --------------------
@@ -121,12 +124,13 @@ $ mkdir -p ~/.config/caja/scripts
 
 ### 3.Clone the script:
 ```
-git clone ***
+$ cd /tmp/
+$ git clone https://github.com/Konstantin-Kuney/Caja-Window-Size-Restorer.git
 ```
 
 ### 4.Copy it to the scripts folder:
 ```
-$ cd ********
+$ cd Caja-Window-Size-Restorer/
 $ cp Caja_Window_Size_Restorer.sh ~/.config/caja/scripts
 ```
 
@@ -153,8 +157,11 @@ $ pluma ~/.config/caja/scripts/Caja_Window_Size_Restorer.sh
 ### 1.2.Change the coordinates and window size:
 
 0,x,y,width,height
+
 0: Draw order (usually 0).
+
 x,y: Coordinates of the upper left corner.
+
 width, height - Window size.
 
 For example:
@@ -162,9 +169,10 @@ For example:
 0,0,577,734,515
 
 0 - Draw order
-0,577 - Zero on the left, 577 on top
-734,515 - Window size 734x515 pixels
 
+0,577 - Zero on the left, 577 on top
+
+734,515 - Window size 734x515 pixels
 
 ### 2.Using:
 
