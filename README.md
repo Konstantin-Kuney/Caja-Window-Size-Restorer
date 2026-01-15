@@ -84,11 +84,11 @@ x,y: Координаты верхнего левого угла. Coordinates of
 
 ### 2.Использование:
 
-Из меню Файл выберите пункт Сценарии -> My_Caja_Window_Size_Default.sh
+Из меню Файл выберите пункт Сценарии -> Caja_Window_Size_Restorer.sh
 
 ![Caja_Window_Size_Restorer_Screen_1](https://github.com/user-attachments/assets/d6f4b1ad-9cfb-4fe2-b93b-a621d61ea01e)
 
-Или щелкните правой кнопкой мыши и в контекстном меню выберите пункт Сценарии -> My_Caja_Window_Size_Default.sh
+Или щелкните правой кнопкой мыши и в контекстном меню выберите пункт Сценарии -> Caja_Window_Size_Restorer.sh
 
 ![Caja_Window_Size_Restorer_Screen_2](https://github.com/user-attachments/assets/46808355-e7df-4d29-834e-b089d3783b70)
 
@@ -176,9 +176,9 @@ For example:
 
 ### 2.Using:
 
-From the File menu, select Scripts -> My_Caja_Window_Size_Default.sh
+From the File menu, select Scripts -> Caja_Window_Size_Restorer.sh
 
-Or right-click and from the context menu select Scripts -> My_Caja_Window_Size_Default.sh
+Or right-click and from the context menu select Scripts -> Caja_Window_Size_Restorer.sh
 
 ---
 
