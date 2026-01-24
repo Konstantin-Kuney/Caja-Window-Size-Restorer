@@ -64,13 +64,13 @@ $ pluma ~/.config/caja/scripts/Caja_Window_Size_Restorer.sh
 
 ### 1.2.Измените координаты и размер окна:
 
-0,x,y,ширина,высота 0,x,y,width,height
+0,x,y,ширина,высота
 
-0: Порядок отрисовки (обычно 0). Draw order (usually 0).
+0: Порядок отрисовки (обычно 0).
 
-x,y: Координаты верхнего левого угла. Coordinates of the upper left corner.
+x,y: Координаты верхнего левого угла.
 
-ширина,высота - Размер окна. width, height - Window size.
+ширина,высота - Размер окна.
 
 Например:
 
